@@ -1,0 +1,42 @@
+body{
+    background-color: #eee;
+}
+
+/* p{
+    max-width: 350px;
+    display: inline;
+    background-color: blue;
+    margin: auto;
+    position: relative;
+    left: 15px;
+    right: 15px;
+    top: 0px;
+    bottom: 0px;
+} */
+
+/* #invisible{
+    display: none;
+}
+
+span{
+    display: block;
+} */
+
+#over{
+    width: 100px;
+    height: 100px;
+    overflow-x: auto;
+}
+
+img{
+    float: right;
+}
+img:hover{
+    opacity: 0.8;
+    border-radius: 5px;
+    border: solid #000 2px;
+}
+
+div p{
+    color: #f00;
+}
